@@ -18,3 +18,4 @@ Bu uygulama, OpenCvSharp kütüphanesi kullanarak gerçek zamanlı el algılama 
 - Webcam (USB veya yerleşik)
 
 
+<img width="804" height="534" alt="image" src="https://github.com/user-attachments/assets/8e243888-04ec-4cd9-a368-3c1cfbc4b3ec" />
